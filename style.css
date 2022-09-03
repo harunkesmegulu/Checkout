@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left{
+    width: 50vw;
+    height: 100vh; 
+    margin: 3rem;   
+}
+input{
+    width: 100%;
+    padding: 0.5rem 2rem;
+}
+.form{
+    position: relative;
+}
+.country-post{
+    display: flex;
+    justify-content: flex-start;
+}
